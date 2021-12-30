@@ -1,4 +1,4 @@
-### Tinashe Dube 👋
+# Hi  👋
 
 <a href="https://discord.gg/fHrmKP4Z">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
