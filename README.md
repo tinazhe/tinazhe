@@ -1,4 +1,27 @@
-### Hi there 👋
+### Tinashe Dube 👋
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+- TypeScript
+- Angular
+- HTML, CSS
+- SCSS
+- Node.js
+- WordPress
+- PHP
+- MySQL
+
+### Mobile Application Development
+
+- Flutter
+- Dart 
+
+
+
+
 
 <!--
 **tinazhe/tinazhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
