@@ -1,5 +1,19 @@
 ### Tinashe Dube 👋
 
+<a href="https://discord.gg/fHrmKP4Z">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/tinashe_yuri">
+  <img align="left" alt="Tinashe Dube | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://https://www.linkedin.com/in/tinazhedube/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+
 ## My skills 📜
 
 ### Web technologies
@@ -19,6 +33,12 @@
 - Flutter
 - Dart 
 
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English (duh) | C2                                                                        |
+| Shona         | B1                                                                        |
 
 
 
